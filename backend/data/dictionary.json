@@ -1,0 +1,90 @@
+[
+  {
+    "id": "a50bc4c5-1f4b-41b7-9f2c-2b07c5eac1b3",
+    "category": "jargon",
+    "term": "Foo",
+    "description": "A placeholder name commonly used in programming examples. It often appears alongside 'bar' and 'baz'.",
+    "username": "coder123",
+    "date": "2021-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "c4146ff9-6d3d-4d9f-a735-9d34718fc3e5",
+    "category": "jargon",
+    "term": "Yak Shaving",
+    "description": "The act of performing a series of seemingly unrelated and tedious tasks that must be done before a particular goal can be achieved.",
+    "username": "devguru",
+    "date": "2021-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "d715453e-90db-44b9-9007-1dd5a6d0b5b1",
+    "category": "Building Skills",
+    "term": "Rubber Duck Debugging",
+    "description": "A method of debugging code by explaining it, line-by-line, to an inanimate object like a rubber duck.",
+    "username": "debugger",
+    "date": "2021-12-28T08:00:00.000Z"
+  },
+  {
+    "id": "a1627bb5-bd1d-4e2e-8708-c36e30fdc252",
+    "category": "Building Skills",
+    "term": "Pair Programming",
+    "description": "A practice in which two programmers work together at one workstation, with one typing and the other reviewing the code as it is written.",
+    "username": "pairmaster",
+    "date": "2022-02-05T08:00:00.000Z"
+  },
+  {
+    "id": "a7365ae2-fbd5-4b63-a2e5-acec77e073db",
+    "category": "Must Knows",
+    "term": "Version Control",
+    "description": "The practice of tracking and managing changes to software code. Popular systems include Git and Subversion.",
+    "username": "gitwizard",
+    "date": "2022-04-18T08:00:00.000Z"
+  },
+  {
+    "id": "edaf9d5f-bf4e-4298-8d0f-9d10f4c8d7b8",
+    "category": "Must Knows",
+    "term": "DRY Principle",
+    "description": "A principle of software development that stands for 'Don't Repeat Yourself', aiming to reduce repetition of code patterns.",
+    "username": "drycoder",
+    "date": "2022-06-27T08:00:00.000Z"
+  },
+  {
+    "id": "20de9be8-c529-4095-9257-2b58c01f8167",
+    "category": "jargon",
+    "term": "Refactor",
+    "description": "The process of restructuring existing code without changing its external behavior to improve its readability, maintainability, or performance.",
+    "username": "refactorer",
+    "date": "2022-09-03T08:00:00.000Z"
+  },
+  {
+    "id": "b1ae9a3c-5f3f-45f0-9df1-91ff5d89b499",
+    "category": "Building Skills",
+    "term": "Agile Methodology",
+    "description": "A project management and software development approach that emphasizes flexibility, collaboration, and customer feedback.",
+    "username": "agileguru",
+    "date": "2023-01-14T08:00:00.000Z"
+  },
+  {
+    "id": "7b0f9182-0b10-4117-8336-e8dc7ec3f9a5",
+    "category": "Must Knows",
+    "term": "CI/CD",
+    "description": "Stands for Continuous Integration and Continuous Deployment, which are practices that aim to improve software quality and delivery speed.",
+    "username": "cicdexpert",
+    "date": "2023-03-22T08:00:00.000Z"
+  },
+  {
+    "id": "5ff9b90a-1b9a-4e24-8a89-c2f5bba69a75",
+    "category": "jargon",
+    "term": "Code Smell",
+    "description": "A surface indication that usually corresponds to a deeper problem in the codebase.",
+    "username": "codesmellhunter",
+    "date": "2023-05-01T08:00:00.000Z"
+  },
+  {
+    "id": "5730f8e6-c847-4952-9234-a57bb1735e10",
+    "category": "jargon",
+    "term": "term",
+    "description": "description",
+    "username": "username",
+    "date": "2023-07-10T08:00:00.000Z"
+  }
+]

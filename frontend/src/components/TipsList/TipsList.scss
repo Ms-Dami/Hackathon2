@@ -1,0 +1,30 @@
+.tips-list {
+  &__card {
+    background-color: #f7f5ee;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  h3 {
+    font-size: 36px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 0;
+    text-transform: lowercase;
+  }
+
+  &__category {
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 600;
+    color: rgb(179, 177, 177);
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  p {
+    // text-decoration: ;
+  }
+}
